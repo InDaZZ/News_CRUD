@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/News_CRUD/static/css/main.318f6eab.css",
-    "main.js": "/News_CRUD/static/js/main.ca7aa348.js",
-    "static/js/453.ed3810f9.chunk.js": "/News_CRUD/static/js/453.ed3810f9.chunk.js",
-    "static/media/Lato-Bold.woff": "/News_CRUD/static/media/Lato-Bold.38460a841f9f02bac0ef.woff",
-    "static/media/Lato-Regular.woff": "/News_CRUD/static/media/Lato-Regular.6acc276c61442b364505.woff",
-    "static/media/Lato-ExtraBold.woff": "/News_CRUD/static/media/Lato-ExtraBold.5b5253af9d68fbe49489.woff",
-    "static/media/NewsApi.svg": "/News_CRUD/static/media/NewsApi.6f217670e09eb82c9728777a85c12abe.svg",
-    "static/media/default_news.webp": "/News_CRUD/static/media/default_news.9dadd68f015afa213f87.webp",
-    "index.html": "/News_CRUD/index.html",
-    "static/media/trash-svgrepo-com.svg": "/News_CRUD/static/media/trash-svgrepo-com.fc463447921b7e1f0299bbdfdb509513.svg",
-    "static/media/pencil-square-svgrepo-com.svg": "/News_CRUD/static/media/pencil-square-svgrepo-com.d2cf43fbcf2d48186ad8f16148449b21.svg",
-    "static/media/hamburgerbar-mobile_navigation.svg": "/News_CRUD/static/media/hamburgerbar-mobile_navigation.c692f1e41496bba8b2b4605ea1794fba.svg",
-    "static/media/Vector.svg": "/News_CRUD/static/media/Vector.a939a61e6978b5bc1e9f.svg",
-    "main.318f6eab.css.map": "/News_CRUD/static/css/main.318f6eab.css.map",
-    "main.ca7aa348.js.map": "/News_CRUD/static/js/main.ca7aa348.js.map",
-    "453.ed3810f9.chunk.js.map": "/News_CRUD/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/static/css/main.f522fa11.css",
+    "main.js": "/static/js/main.9ab7677c.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.38460a841f9f02bac0ef.woff",
+    "static/media/Lato-Regular.woff": "/static/media/Lato-Regular.6acc276c61442b364505.woff",
+    "static/media/Lato-ExtraBold.woff": "/static/media/Lato-ExtraBold.5b5253af9d68fbe49489.woff",
+    "static/media/NewsApi.svg": "/static/media/NewsApi.6f217670e09eb82c9728777a85c12abe.svg",
+    "static/media/default_news.webp": "/static/media/default_news.9dadd68f015afa213f87.webp",
+    "index.html": "/index.html",
+    "static/media/trash-svgrepo-com.svg": "/static/media/trash-svgrepo-com.fc463447921b7e1f0299bbdfdb509513.svg",
+    "static/media/pencil-square-svgrepo-com.svg": "/static/media/pencil-square-svgrepo-com.d2cf43fbcf2d48186ad8f16148449b21.svg",
+    "static/media/hamburgerbar-mobile_navigation.svg": "/static/media/hamburgerbar-mobile_navigation.c692f1e41496bba8b2b4605ea1794fba.svg",
+    "static/media/Vector.svg": "/static/media/Vector.a939a61e6978b5bc1e9f.svg",
+    "main.f522fa11.css.map": "/static/css/main.f522fa11.css.map",
+    "main.9ab7677c.js.map": "/static/js/main.9ab7677c.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.318f6eab.css",
-    "static/js/main.ca7aa348.js"
+    "static/css/main.f522fa11.css",
+    "static/js/main.9ab7677c.js"
   ]
 }

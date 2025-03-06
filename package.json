@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://indazz.github.io/News_CRUD",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.0",

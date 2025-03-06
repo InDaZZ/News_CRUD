@@ -5,5 +5,5 @@ export enum EAppRoutes {
 
 export const routePaths: Record<EAppRoutes, string> = {
   [EAppRoutes.MAIN]: "/",
-  [EAppRoutes.NEWS]: "/news",
+  [EAppRoutes.NEWS]: "news",
 };
